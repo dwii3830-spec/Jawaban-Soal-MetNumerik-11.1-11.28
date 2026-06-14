@@ -2,8 +2,8 @@ Repositori ini berisi jawaban soal-soal dari buku Numerical Methods for Engineer
 
 Keterangan Format Jawaban:
 
-Perhitungan Manual (dalam file PDF): Soal 11.6 Cholesky decomposition dikerjakan secara perhitungan manual
-Penjelasan Tambahan (dalam file PDF): 11.14, 11.15, 11.16, 11.18, 11.19, 11.20, 11.21, 11.22
+Perhitungan Manual (dalam file jawaban deskriptif pdf): Soal 11.6 Cholesky decomposition dikerjakan secara perhitungan manual
+Penjelasan Tambahan (dalam file jawaban deskriptif pdf): 11.14, 11.15, 11.16, 11.18, 11.19, 11.20, 11.21, 11.22
 
 Kode Python (.py)
 Soal-soal berikut dijawab dalam bentuk kode Python (File: Jawaban dalam kode py.ipynb)
