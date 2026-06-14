@@ -14,3 +14,7 @@ Soal-soal berikut dijawab dalam bentuk kode MATLAB (masing-masing file berdiri s
 11.19
 11.20
 11.21
+DALAM FILE:
+soal_11_19.m
+soal_11_20.m
+soal_11_21.m
